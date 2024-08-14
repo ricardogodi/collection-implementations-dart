@@ -27,6 +27,7 @@ The `BST<T>` class provides a binary search tree implementation, supporting oper
 
 2. **Compile and Run the Project:**
    - Navigate to the project directory in your terminal.
+   - - Note that `main.dart` is only a short testing file designed to validate the functionality of the collection classes (`BST<T>` and `LinkedList<T>`).
    - To compile and run the project, use the following command:
      ```bash
      dart run main.dart
